@@ -1,4 +1,10 @@
 # Neutrinos
-En este repositorio se guardan copias de los archivos en python originales.
-El numero que acompaña al nombre representa la fecha en DDMMAA.
-El archivo sin fecha es el base que solo hace las operaciones de normalización y producto interno.
+En este repositorio se guardan archivos correspondientes al trabajo:
+"Escala de Neutrinos en un Modelo con Textura Universal y Masas de Majorana"
+
+Por; L. Lopez Lozano, S. Gómez Ávila y J. Hernández Acosta.
+
+Contenido:
+*Poster
+*Documento
+*Código Python

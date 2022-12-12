@@ -5,6 +5,7 @@ En este repositorio se guardan archivos correspondientes al trabajo:
 Por; L. Lopez Lozano, S. Gómez Ávila y J. Hernández Acosta.
 
 Contenido:
+
 *Documento
 
 *Código Python
